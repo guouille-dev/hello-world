@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+# Useless import deleted
 import numpy as np 
 import pandas as pd
 
@@ -8,3 +8,4 @@ print("df.levels = {}".format(df.levels))
 
 print("dataFrame : \n {}".format(df))
 
+print("Everything in order")
